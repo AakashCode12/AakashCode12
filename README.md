@@ -2,7 +2,8 @@
 ![alt text](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1595618351/for%20github%20profile/Aakash_yadav_ohc5dg.gif)
 ### Hi there 👋)
 🔭 I’m currently working on my Portfolio Website.<br>
-🌱 I’m currently learning ML & Node.js
+🌱 I’m currently learning ML & Node.js<br>
+👯 I’m looking to collaborate on Smartometer project
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
