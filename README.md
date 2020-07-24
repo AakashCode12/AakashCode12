@@ -1,5 +1,6 @@
-https://res.cloudinary.com/dnv3ztqf1/image/upload/v1595617745/for%20github%20profile/Aakash_yadav_qjotud.png
-### Hi there 👋
+
+![alt text](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1595617745/for%20github%20profile/Aakash_yadav_qjotud.png
+### Hi there 👋)
 🔭 I’m currently working on my portfolio website.<br>
 🌱 I’m currently learning ML & Node.js
 <!--
