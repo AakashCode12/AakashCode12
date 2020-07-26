@@ -3,7 +3,7 @@
 ### Hi there 👋)
 🔭 I’m currently working on my Portfolio Website ->https://aakashcode12.github.io/My-Portfolio/<br>
 🌱 I’m currently learning ML & Node.js<br>
-👯 I’m looking to collaborate on Smartometer project
+
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
