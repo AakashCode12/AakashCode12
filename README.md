@@ -4,6 +4,11 @@
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/My-Portfolio/)<br>
 🌱 I’m currently learning DSA & ML & Node.js<br>
 
+<a href="https://www.hackerrank.com/AakashCode12" title="Redirect to homepage">
+    <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+
+
+
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
