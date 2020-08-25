@@ -7,19 +7,19 @@
 <table >
   <tr>
     <th>
-<a href="https://www.hackerrank.com/AakashCode12" title="Redirect to homepage">
+<a href="https://www.hackerrank.com/AakashCode12" target="_blank" title="Redirect to homepage">
     <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
 </th>
     <th>
-<a href="https://twitter.com/Aakashv0007" title="Redirect to homepage">
+<a href="https://twitter.com/Aakashv0007"  target="_blank"  title="Redirect to homepage">
     <img src="https://img.icons8.com/doodle/32/000000/twitter--v1.png"/></a>
 </th>
     <th>
-<a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" title="Redirect to homepage">
+<a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" target="_blank"  title="Redirect to homepage">
 <img src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/></a>
 </th>
   <th>
-  <a href="https://www.instagram.com/aakash_igram/" title="Redirect to homepage">
+  <a href="https://www.instagram.com/aakash_igram/" target="_blank"  title="Redirect to homepage">
   <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
   </th>    
   </tr> 
