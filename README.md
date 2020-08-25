@@ -8,15 +8,15 @@
   <tr>
     <th>
 <a href="https://www.hackerrank.com/AakashCode12" title="Redirect to homepage">
-    <img src="https://img.icons8.com/windows/128/000000/hackerrank.png"/></a>
+    <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
 </th>
     <th>
 <a href="https://twitter.com/Aakashv0007" title="Redirect to homepage">
-    <img src="https://img.icons8.com/doodle/192/000000/twitter--v1.png"/></a>
+    <img src="https://img.icons8.com/doodle/32/000000/twitter--v1.png"/></a>
 </th>
     <th>
 <a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" title="Redirect to homepage">
-<img src="https://img.icons8.com/doodle/192/000000/linkedin--v2.png"/></a>
+<img src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/></a>
 </th>
   </tr> 
 </table>
