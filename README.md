@@ -4,7 +4,7 @@
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/My-Portfolio/)<br>
 🌱 I’m currently learning DSA & ML & Node.js<br>
 
-<table>
+<table >
   <tr>
     <th>
 <a href="https://www.hackerrank.com/AakashCode12" title="Redirect to homepage">
