@@ -23,7 +23,7 @@
   </th>    
   </tr> 
 </table>
-Icons Credits : <a href="https://icons8.com/icon/5eT5OnLluNOx/instagram">Icons by Icons8</a>
+Icon's Credits : <a href="https://icons8.com/icon/5eT5OnLluNOx/instagram">Icons by Icons8</a>
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
