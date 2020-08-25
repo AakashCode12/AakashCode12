@@ -18,6 +18,11 @@
 <a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" title="Redirect to homepage">
 <img src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/></a>
 </th>
+        <th>
+<a href="https://www.instagram.com/doshi.munjal/" title="Redirect to homepage">
+<img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
+</th>
+    
   </tr> 
 </table>
 
