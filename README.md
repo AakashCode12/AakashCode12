@@ -4,10 +4,22 @@
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/My-Portfolio/)<br>
 🌱 I’m currently learning DSA & ML & Node.js<br>
 
+<table>
+  <tr>
+    <th>
 <a href="https://www.hackerrank.com/AakashCode12" title="Redirect to homepage">
-    <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
-
-
+    <img src="https://img.icons8.com/windows/128/000000/hackerrank.png"/></a>
+</th>
+    <th>
+<a href="https://twitter.com/Aakashv0007" title="Redirect to homepage">
+    <img src="https://img.icons8.com/doodle/192/000000/twitter--v1.png"/></a>
+</th>
+    <th>
+<a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" title="Redirect to homepage">
+<img src="https://img.icons8.com/doodle/192/000000/linkedin--v2.png"/></a>
+</th>
+  </tr> 
+</table>
 
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
