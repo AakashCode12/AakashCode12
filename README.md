@@ -5,22 +5,22 @@
 🌱 I’m currently learning DSA & ML & Node.js<br><br>
 <table >
   <tr>
-    <th>
+    <td>
 <a href="https://www.hackerrank.com/AakashCode12" target="_blank" title="Redirect to homepage">
     <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
-</th>
-    <th>
+</td>
+    <td>
 <a href="https://twitter.com/Aakashv0007"  target="_blank"  title="Redirect to homepage">
     <img src="https://img.icons8.com/doodle/32/000000/twitter--v1.png"/></a>
-</th>
-    <th>
+</td>
+    <td>
 <a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" target="_blank"  title="Redirect to homepage">
 <img src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/></a>
-</th>
-  <th>
+</td>
+  <td>
   <a href="https://www.instagram.com/aakash_igram/" target="_blank"  title="Redirect to homepage">
   <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
-  </th>    
+  </td>    
   </tr> 
 </table>
 Icon's Credits : <a href="https://icons8.com/icon/5eT5OnLluNOx/instagram">Icons by Icons8</a>
