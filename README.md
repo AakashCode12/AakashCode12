@@ -15,7 +15,7 @@
 </td>
     <td>
 <a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" target="_blank"  title="Redirect to homepage">
-<img src="https://img.icons8.com/doodle/32/000000/linkedin--v2.png"/></a>
+<img src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229120/for%20github%20profile/linkedin_kcwoc2.png"/></a>
 </td>
   <td>
   <a href="https://www.instagram.com/aakash_igram/" target="_blank"  title="Redirect to homepage">
@@ -23,7 +23,7 @@
   </td>    
   </tr> 
 </table>
-Icon's Credits : <a href="https://icons8.com/icon/5eT5OnLluNOx/instagram">Icons by Icons8</a>
+
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
