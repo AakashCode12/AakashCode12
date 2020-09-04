@@ -7,7 +7,7 @@
   <tr>
     <td>
 <a href="https://www.hackerrank.com/AakashCode12" target="_blank" title="Redirect to homepage">
-    <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+    <img src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/HackerRank_logo_clbbjf.svg"/></a>
 </td>
     <td>
 <a href="https://twitter.com/Aakashv0007"  target="_blank"  title="Redirect to homepage">
