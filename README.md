@@ -19,7 +19,7 @@
 </td>
   <td>
   <a href="https://www.instagram.com/aakash_igram/" target="_blank"  title="Redirect to homepage">
-  <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/></a>
+  <img src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599228946/for%20github%20profile/instagram-sketched_tv68dv.png"/></a>
   </td>    
   </tr> 
 </table>
