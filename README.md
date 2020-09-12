@@ -2,7 +2,7 @@
 ![alt text](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1595618351/for%20github%20profile/Aakash_yadav_ohc5dg.gif)
 ### Hi there 👋)
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/AakashPortfolio/)<br>
-🌱 I’m currently learning DSA, Flask,ML & Node.js<br><br>
+🌱 I’m currently learning DSA, Flask, ML & Node.js<br><br>
 
 <table>
     <tr>
