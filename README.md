@@ -1,8 +1,21 @@
 
 ![alt text](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1595618351/for%20github%20profile/Aakash_yadav_ohc5dg.gif)
+
+
+<table>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=AakashCode12&show_icons=true" width="400"></td>
+        <td>
+            
 ### Hi there 👋)
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/AakashPortfolio/)<br>
 🌱 I’m currently learning DSA, ML & Node.js<br>
+        </td>
+     
+        
+    </tr>
+</table>
+
 
 <table>
     <tr>
