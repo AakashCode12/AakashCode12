@@ -2,9 +2,10 @@
 ![alt text](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1595618351/for%20github%20profile/Aakash_yadav_ohc5dg.gif)
 
 
+
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=AakashCode12&show_icons=true" width="400"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=AakashCode12&show_icons=true" width="500"></td>
 <td>
 
 ### Hi there 👋)
