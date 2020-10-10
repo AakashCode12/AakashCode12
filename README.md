@@ -11,11 +11,6 @@
 ### Hi there 👋)
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/AakashPortfolio/)<br>
 🌱 I’m currently learning DSA, ML & Node.js<br>
-</td>
-
-
-</tr>
-</table>
 
 
 <table>
@@ -41,6 +36,13 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229120/for%20github%
 <img
 src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599228946/for%20github%20profile/instagram-sketched_tv68dv.png" /></a>
 </td>
+</tr>
+</table>
+
+
+</td>
+
+
 </tr>
 </table>
 
