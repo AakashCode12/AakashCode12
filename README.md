@@ -12,7 +12,6 @@
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/AakashPortfolio/)<br>
 🌱 I’m currently learning DSA, ML & Node.js<br>
 
-
 <table>
 <tr>
 <td>
