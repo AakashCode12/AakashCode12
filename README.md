@@ -1,7 +1,4 @@
-
 ![alt text](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1595618351/for%20github%20profile/Aakash_yadav_ohc5dg.gif)
-
-
 
 <table>
 <tr>
@@ -9,6 +6,7 @@
 <td>
 
 ### Hi there 👋)
+
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/AakashPortfolio/)<br>
 🌱 I’m currently learning DSA, ML & Node.js<br>
 
@@ -38,14 +36,10 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599228946/for%20github%
 </tr>
 </table>
 
-
 </td>
-
 
 </tr>
 </table>
-
-
 
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
