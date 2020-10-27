@@ -8,7 +8,7 @@
 ### Hi there 👋)
 
 🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/AakashPortfolio/)<br>
-🌱 I’m currently learning DSA, ML & Node.js<br>
+🌱 I’m currently Learning Android Development.<br>
 
 <table>
 <tr>
