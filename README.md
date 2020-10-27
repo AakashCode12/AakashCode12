@@ -7,7 +7,7 @@
 
 ### Hi there 👋)
 
-🔭 I’m currently working on my [Portfolio Website ](https://aakashcode12.github.io/AakashPortfolio/)<br>
+🔭 I’m currently working on College Mini Project. (App Development)<br>
 🌱 I’m currently Learning Android Development.<br>
 
 <table>
