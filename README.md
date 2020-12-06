@@ -10,6 +10,8 @@
 🔭 I’m currently working on College Mini Project. (Android App Development)<br>
 🌱 I’m currently Learning Android Development.<br>
 
+[Skill Set](https://aakash-yadav-portfolio.web.app/) 
+
 <table>
 <tr>
 <td>
