@@ -22,13 +22,13 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%
 <td>
 <a href="https://twitter.com/Aakashv0007" target="_blank" title="Redirect to homepage">
 <img
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229044/for%20github%20profile/twitter_dbuptk.png" /></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229044/for%20github%20profile/twitter%27.png" /></a>
 </td>
 <td>
 <a href="https://www.linkedin.com/in/aakash-yadav-a30627190/" target="_blank"
 title="Redirect to homepage">
 <img
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229120/for%20github%20profile/linkedin_kcwoc2.png" /></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229120/for%20github%20profile/linkedin.png" /></a>
 </td>
 <td>
 <a href="https://www.instagram.com/aakash_igram/" target="_blank" title="Redirect to homepage">
