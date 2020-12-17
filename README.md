@@ -17,7 +17,7 @@
 <td>
 <a href="https://www.hackerrank.com/AakashCode12" target="_blank" title="Redirect to homepage">
 <img height="32px" width="32px"
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/HackerRank_logo_clbbjf.svg" /></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229238/for%20github%20profile/hackerrank.svg" /></a>
 </td>
 <td>
 <a href="https://twitter.com/Aakashv0007" target="_blank" title="Redirect to homepage">
