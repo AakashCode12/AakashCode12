@@ -7,8 +7,8 @@
 
 ### Hi there 👋)
 
-🔭 I’m currently working on College Mini Project. (Android App Development)<br>
-🌱 I’m currently Learning Android Development.<br>
+🔭 I’m currently working on a CMS with ML in DJANGO.<br>
+🌱 I’m currently Learning Android Development & Django Framework.<br>
 
 [Skill Set](https://aakash-yadav-portfolio.web.app/#skillset) 
 
