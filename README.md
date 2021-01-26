@@ -33,11 +33,11 @@ src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599229120/for%20github%
 <td>
 <a href="https://www.instagram.com/aakash_igram/" target="_blank" title="Redirect to homepage">
 <img
-src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599228946/for%20github%20profile/instagram-sketched_tv68dv.png" /></a>
+src="https://res.cloudinary.com/dnv3ztqf1/image/upload/c_scale,h_29/v1599228946/for%20github%20profile/instagram-sketched_tv68dv.png" /></a>
 </td>
   <td>
 <a href="https://dev.to/aakashcode12">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aakash Yadav's DEV Community Profile" height="30" width="30">
+  <img src="https://res.cloudinary.com/dnv3ztqf1/image/upload/v1611674514/for%20github%20profile/icons8-dev_zmqbwy.svg" height="30" width="30">
 </a></td>
 </tr>
 </table>
