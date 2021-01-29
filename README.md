@@ -7,7 +7,6 @@
 
 ### Hi there 👋)
 
-🔭 I’m currently working on a CMS with ML in DJANGO.<br>
 🌱 I’m currently Learning Android Development & Django Framework.<br>
 
 [Skill Set](https://aakash-yadav-portfolio.web.app/#skillset) 
