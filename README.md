@@ -7,7 +7,7 @@
 
 ### Hi there 👋)
 
-🌱 I’m currently Learning Android Development & Django Framework.<br>
+🌱 I’m currently Learning Android Development.<br>
 
 [Skill Set](https://aakash-yadav-portfolio.web.app/#skillset) 
 
