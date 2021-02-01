@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=AakashCode12&show_icons=true" width="500px"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=AakashCode12&show_icons=true" width="600"></td>
 <td>
 
 ### Hi there 👋)
