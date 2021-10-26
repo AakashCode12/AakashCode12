@@ -46,7 +46,7 @@
 </tr>
 </table>
 
-### [My Projects [OPEN SOURCE + NON OPEN SOURCE]](https://aakashcode12.github.io/My-Portfolio/Projects.html)
+### [My Projects [OPEN SOURCE + NON OPEN SOURCE]](https://aakash-yadav-portfolio.web.app/Projects.html)
 <!--
 **AakashCode12/AakashCode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
