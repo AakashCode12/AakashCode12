@@ -7,7 +7,7 @@
 
 ### Hi there 👋)
 
-🌱 I’m currently Learning Blockchain <br>
+
 
 [Skill Set](https://aakash-yadav-portfolio.web.app/#skillset) 
     <table>
